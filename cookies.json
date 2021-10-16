@@ -1,0 +1,46 @@
+[
+  {
+    "name": "sessionid",
+    "value": "whb1p0c2o63rscdc32169ntncgmcjpo2",
+    "domain": "suap.ifrn.edu.br",
+    "path": "/",
+    "expires": -1,
+    "size": 41,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "suap-control",
+    "value": "eyJ1c2VybmFtZSI6IjIwMjExMTQ0MDEwMDQ0IiwiZGF0ZXRpbWUiOiIyMDIxLTExLTE0VDIxOjA1OjEwLjgwMTQyMSJ9:1mbXCI:nwEV7YJ-J-tHU32w-YR6ElWlKFSsJ_fq5YOe5Kx0BVI",
+    "domain": "suap.ifrn.edu.br",
+    "path": "/",
+    "expires": 1636923910.845921,
+    "size": 155,
+    "httpOnly": true,
+    "secure": false,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "csrftoken",
+    "value": "bXmQCqSskR9q2Ggx3zIoD5eemtmAxBN2Q2BK1CcXznMX20JlAfy5JY6ecxibyvUM",
+    "domain": "suap.ifrn.edu.br",
+    "path": "/",
+    "expires": 1665792310.845848,
+    "size": 73,
+    "httpOnly": true,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
